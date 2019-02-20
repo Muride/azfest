@@ -23,12 +23,12 @@ div#title{
 h3{
 	text-align:center;
 	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
-	font-size:20px;
+	font-size:25px;
 	font-weight:lighter;
 }
 
 div#stitle{
-	margin:13px 20px 32px 40px;
+	margin:26px 20px 32px 40px;
 }
 
 h3#l{
@@ -51,6 +51,10 @@ h2{
 	font-weight:lighter;
 }
 
+h4{
+	margin:0 0 18px 40px;
+	font-size:25px;
+}
 p{
 	margin:0 20px 35px 40px;
 	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
@@ -61,4 +65,9 @@ p{
 
 img{
 	margin:0 0 30px 20px;
+}
+
+span{
+	font-weight:bold;
+	color:#ff0000;
 }
