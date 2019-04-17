@@ -49,6 +49,7 @@ h2{
 	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
 	font-size:25px;
 	font-weight:lighter;
+	margin:0 0 10px 0;
 }
 
 h4{
@@ -70,4 +71,14 @@ img{
 span{
 	font-weight:bold;
 	color:#ff0000;
+}
+
+footer{
+	background-color:#FBFBFB;
+	color:#fff;
+	height:60px;
+	text-align:center;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+	font-size:16px;
+	padding-top:22px;
 }
